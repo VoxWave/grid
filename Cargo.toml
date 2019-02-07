@@ -1,0 +1,7 @@
+[package]
+name = "grid"
+version = "0.1.0"
+authors = ["VoxWave <victor_bankowski@hotmail.com>"]
+edition = "2018"
+
+[dependencies]
